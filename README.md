@@ -1,6 +1,6 @@
 ![ChatBot](logo/jaury_abreu_logo.png)
 
-# ChatBot
+# Chatbot con OpenAI & LangChain
 ## Installation & Setup
 
 [Install Python] https://phoenixnap.com/kb/how-to-install-python-3-windows
