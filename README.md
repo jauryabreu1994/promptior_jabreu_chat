@@ -4,6 +4,7 @@
 ## Installation & Setup
 
 [Install Python] https://phoenixnap.com/kb/how-to-install-python-3-windows
+
 [Install pip] https://phoenixnap.com/kb/install-pip-windows
 
 If you've got Python and pip installed, you can verify their version by running the following commands in your terminal or command line tools.
