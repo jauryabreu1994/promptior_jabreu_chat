@@ -1,5 +1,5 @@
 flask
 langchain
-FAISS
 python-dotenv
-faiss
+faiss-cpu
+langchain_openai
