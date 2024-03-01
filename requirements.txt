@@ -1,0 +1,5 @@
+flask
+langchain
+FAISS
+python-dotenv
+faiss
